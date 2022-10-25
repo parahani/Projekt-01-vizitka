@@ -1,4 +1,4 @@
-# Projekt-01-vizitka TOHLE JE ZMĚNA Z LAPTOPU
+# Projekt-01-vizitka
 
 Vytvoř stránku s vlastním životopisem v HTML a CSS. Pokud nechceš vyrábět přímo životopis, stačí udělat stránku se svým medailonkem. Napiš něco krátkého o sobě, nebo se třeba rozepiš a udělej miniwebík o nějakém svém koníčku, domácím mazlíčkovi, nebo třeba stránku o své super dovolené někde v zahraničí.
 
