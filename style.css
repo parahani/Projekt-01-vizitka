@@ -1,3 +1,82 @@
-/* nejsme vcerejsi, pouzivame moderni a intuitivni box model */
-html { box-sizing: border-box; }
-*, ::after, ::before { box-sizing: inherit; }
+.footer {
+
+    background-color: #003049;
+    color: #FDF0D5;
+    text-align: center;
+    padding: 20px 0;
+}
+
+section {
+    padding: 10px 200px;
+    overflow: auto;
+}
+
+body{
+    background-color: #FDF0D5;
+    color: #003049;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    font-size: 12px;
+
+
+}
+
+
+h1{
+    margin: 0;
+    padding: 200px 20px;
+    text-align: center;
+    font-size: 60px;
+    color: #FDF0D5;
+    background: url('/Projekt-01-vizitka/fotky/fleabag-cover2.jpg') center center no-repeat;
+    background-size: cover;
+    text-shadow: 0px 2px 8px #003049(0, 0, 0, 0.5);
+}
+
+h2 {
+    font-size: 40px;
+    text-align: left;
+    color: #003049;
+    margin: 0;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: left;
+    color: #003049;
+    margin: 0;
+}
+
+.obrazek-fleabag {
+    width: 160px;
+    border-radius: 50%;
+    float: left;
+    margin: 20px 20px;
+    
+
+}
+
+.genialita{
+
+    clear: both;
+    background-color: #FBE3B4;
+
+
+}
+
+.fotogalerie img{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid #003049;
+    border-radius: 0;
+}
+
+.fotka-hana{
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+    margin: 20px 20px;
+}
+
